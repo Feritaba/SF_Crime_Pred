@@ -449,7 +449,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run fontname='Tableau Bold' fontsize='14'>         INCIDENT VS OCCURENCE DURING THE YEAR</run>
+            <run fontname='Tableau Bold' fontsize='14'>         INCIDENT VS OCCURANCE DURING THE YEAR</run>
           </formatted-text>
         </title>
       </layout-options>
